@@ -111,6 +111,8 @@ brew "tmux-xpanes"                        # Ultimate terminal divider powered by
 brew "trash"                              # CLI tool that moves files or folder to the trash
 brew "tree"                               # Display directories as trees (with optional color/HTML output)
 
+brew "unison"                             # File synchronization tool for OSX
+
 brew "vim"                                # Vi 'workalike' with many additional features
 
 brew "watch"                              # Executes a program periodically, showing output fullscreen
