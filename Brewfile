@@ -119,6 +119,7 @@ cask "dropbox"                            # Client for the Dropbox cloud storage
 cask "firefox"                            # Web browser
 cask "handbrake"                          # Open-source video transcoder
 cask "iterm2"                             # Terminal emulator as alternative to Apple's Terminal app
+cask "jump-desktop-connect"               # Remote desktop app
 cask "keyboard-cleaner"                   # Desktop shield and keystroke interceptor
 cask "macfuse"                            # File system integration: allows you to extend macOS's native file handling capabilities via third-party file systems
 cask "mactex"                             # Full TeX Live distribution with GUI applications
