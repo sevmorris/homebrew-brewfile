@@ -1,4 +1,11 @@
-## My Public Brewfile
+#_________________________//Personal Brewfile for//____________________________#
+#______      ______                                           _           _____#
+#_____      / ____ \________ _   ______ ___  ____  __________(_)____       ____#
+#____      / / __ `/ ___/ _ \ | / / __ `__ \/ __ \/ ___/ ___/ / ___/      _____#
+#___      / / /_/ (__  )  __/ |/ / / / / / / /_/ / /  / /  / (__  )      ______#
+#____     \ \__,_/____/\___/|___/_/ /_/ /_/\____/_/  /_/  /_/____/      _______#
+#_____     \____/                                                      ________#
+#______________________________________________________________________________#
 
 tap "bramstein/webfonttools"
 tap "buo/cask-upgrade"
@@ -100,6 +107,7 @@ brew "smartmontools"                      # SMART hard drive monitoring
 brew "speedtest-cli"                      # Command-line interface for https://speedtest.net bandwidth tests
 
 brew "tldr"                               # Simplified and community-driven man pages
+brew "topgrade"                           # Detects which tools you use and runs the appropriate commands to update them
 brew "tree"                               # Display directories as trees (with optional color/HTML output)
 
 brew "vim"                                # Vi 'workalike' with many additional features
