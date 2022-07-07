@@ -98,6 +98,7 @@ brew "pcre2"                              # Perl compatible regular expressions 
 brew "php", restart_service: true         # General-purpose scripting language
 brew "pinentry-mac"                       # Pinentry for GPG on Mac
 
+brew "rich"                               # Command line toolbox for fancy output in the terminal
 brew "rsync"                              # Utility that provides fast incremental file transfer
 
 brew "screen"                             # Terminal multiplexer with VT100/ANSI terminal emulation
@@ -119,20 +120,20 @@ brew "bramstein/webfonttools/sfnt2woff-zopfli"
 brew "wdiff"                              # Display word differences between text files
 brew "wget"                               # Internet file retriever
 
-cask "adapter"                            # Converts Video, Audio and Images
-cask "atom"                               # "A hackable text editor for the 21st Century"
-cask "bitwarden"                          # Desktop password and login vault
-cask "dozer"                              # Tool to hide status bar icons
-cask "dropbox"                            # Client for the Dropbox cloud storage service
-cask "firefox"                            # Web browser
-cask "handbrake"                          # Open-source video transcoder
-cask "iterm2"                             # Terminal emulator as alternative to Apple's Terminal app
-cask "jump-desktop-connect"               # Remote desktop app
-cask "keyboard-cleaner"                   # Desktop shield and keystroke interceptor
-cask "macfuse"                            # File system integration: allows you to extend macOS's native file handling capabilities via third-party file systems
-cask "mactex"                             # Full TeX Live distribution with GUI applications
-cask "raspberry-pi-imager"                # Imaging utility to install operating systems to a microSD card
-cask "timemachineeditor"                  # Utility to change the default backup interval of Time Machine
-cask "veracrypt"                          # Disk encryption software focusing on security based on TrueCrypt
-cask "vlc"                                # Multimedia player
-cask "zoom"                               # Video communication and virtual meeting platform
+#cask "adapter"                            # Converts Video, Audio and Images
+#cask "atom"                               # "A hackable text editor for the 21st Century"
+#cask "bitwarden"                          # Desktop password and login vault
+#cask "dozer"                              # Tool to hide status bar icons
+#cask "dropbox"                            # Client for the Dropbox cloud storage service
+#cask "firefox"                            # Web browser
+#cask "handbrake"                          # Open-source video transcoder
+#cask "iterm2"                             # Terminal emulator as alternative to Apple's Terminal app
+#cask "jump-desktop-connect"               # Remote desktop app
+#cask "keyboard-cleaner"                   # Desktop shield and keystroke interceptor
+#cask "macfuse"                            # File system integration: allows you to extend macOS's native file handling capabilities via third-party file systems
+#cask "mactex"                             # Full TeX Live distribution with GUI applications
+#cask "raspberry-pi-imager"                # Imaging utility to install operating systems to a microSD card
+#cask "timemachineeditor"                  # Utility to change the default backup interval of Time Machine
+#cask "veracrypt"                          # Disk encryption software focusing on security based on TrueCrypt
+#cask "vlc"                                # Multimedia player
+#cask "zoom"                               # Video communication and virtual meeting platform
