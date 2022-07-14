@@ -121,6 +121,7 @@ brew "wdiff"                              # Display word differences between tex
 brew "wget"                               # Internet file retriever
 
 #cask "adapter"                            # Converts Video, Audio and Images
+#cask "aldente"                            # Menu bar tool to limit maximum charging percentage
 #cask "atom"                               # "A hackable text editor for the 21st Century"
 #cask "bitwarden"                          # Desktop password and login vault
 #cask "dozer"                              # Tool to hide status bar icons
