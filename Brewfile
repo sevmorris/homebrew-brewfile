@@ -134,7 +134,9 @@ brew "wget"                               # Internet file retriever
 #cask "macfuse"                            # File system integration: allows you to extend macOS's native file handling capabilities via third-party file systems
 #cask "mactex"                             # Full TeX Live distribution with GUI applications
 #cask "raspberry-pi-imager"                # Imaging utility to install operating systems to a microSD card
+#cask "raycast"                            # A (better than) Spotlight replacement
 #cask "timemachineeditor"                  # Utility to change the default backup interval of Time Machine
+#cask "todoist"                            # To-do list
 #cask "veracrypt"                          # Disk encryption software focusing on security based on TrueCrypt
 #cask "vlc"                                # Multimedia player
 #cask "zoom"                               # Video communication and virtual meeting platform
