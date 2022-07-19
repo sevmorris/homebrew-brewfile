@@ -133,6 +133,7 @@ brew "wget"                               # Internet file retriever
 #cask "keyboard-cleaner"                   # Desktop shield and keystroke interceptor
 #cask "macfuse"                            # File system integration: allows you to extend macOS's native file handling capabilities via third-party file systems
 #cask "mactex"                             # Full TeX Live distribution with GUI applications
+#cask "obsidian"                           # Knowledge base that works on top of a local folder of plain text Markdown files
 #cask "raspberry-pi-imager"                # Imaging utility to install operating systems to a microSD card
 #cask "raycast"                            # A (better than) Spotlight replacement
 #cask "timemachineeditor"                  # Utility to change the default backup interval of Time Machine
